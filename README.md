@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajay9009
+- 👋 Hi, I’m Ajay Singh
 - 👀 I’m interested in developer job as full stack developer
 - 🌱 I’m currently learning node.js, react.js, anguler.js
 - 💞️ I’m looking to collaborate on developement teams
