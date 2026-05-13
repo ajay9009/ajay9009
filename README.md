@@ -3,7 +3,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2563EB&height=200&section=header&text=Ajay%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Cloud%20Architect&descColor=93C5FD&descAlignY=60" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Building+scalable+backend+systems+%F0%9F%94%A7;REST+APIs+%7C+Microservices+%7C+Spring+Boot;3.6%2B+years+in+Finance+%26+Insurance+Tech;Open+to+exciting+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Building+scalable+backend+systems+%F0%9F%94%A7;REST+APIs+%7C+Microservices+%7C+Spring+Boot;Sr.+Analyst+%40+Accenture+%F0%9F%8F%A2;4%2B+years+in+Finance+%26+Insurance+Tech)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-singh-9009)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhajay9009735865@gmail.com)
@@ -21,10 +21,10 @@
 public class AjaySingh implements BackendEngineer {
 
     private final String name       = "Ajay Singh";
-    private final String role       = "Senior Systems Engineer @ Infosys";
+    private final String role       = "Custom Software Engineering Sr. Analyst @ Accenture";
     private final String location   = "Delhi, India 🇮🇳";
     private final String domain     = "Financial Services & Insurance Tech";
-    private final String status     = "Employed · Open to exciting opportunities";
+    private final String status     = "Accenture · Building enterprise software at scale";
     private final int    experience = 4; // years
 
     private final String[] coreStack = {
@@ -102,9 +102,15 @@ public class AjaySingh implements BackendEngineer {
 
 ## 💼 Professional Experience
 
-### 🏢 Infosys Limited — Senior Systems Engineer *(Jun 2022 – Present)*
+### 🟣 Accenture — Custom Software Engineering Sr. Analyst *(Present)*
 
-> Building enterprise-grade backend systems for **Fortune 500 insurance and financial services clients.**
+> Delivering custom software engineering solutions for global enterprise clients, applying deep expertise in Java backend systems, microservices, and cloud-native architectures.
+
+---
+
+### 🏢 Infosys Limited — Senior Systems Engineer *(Jun 2022 – 2025)*
+
+> Built enterprise-grade backend systems for **Fortune 500 insurance and financial services clients.**
 
 #### 🔷 Securian Financial — Insurance & Financial Services Platform
 - Developed **Spring Boot microservices** for core insurance modules: Account, Billing, Policy, Premium & Contract Administration
@@ -162,7 +168,7 @@ public class AjaySingh implements BackendEngineer {
 
 | Credential | Issuer | Year |
 |------------|--------|------|
-| 🏅 Infosys Certified Java SE 8 Developer | Infosys | — |
+| 🏅 Java SE 8 Developer Certification | Infosys | — |
 | 🤖 Certified Applied Generative AI Professional | — | — |
 | ☕ Advanced Java Certification (JDBC, Servlets, J2EE, JSP) | — | — |
 | 🍃 Spring Boot & Microservices Development | — | — |
@@ -179,7 +185,7 @@ public class AjaySingh implements BackendEngineer {
 [![Email](https://img.shields.io/badge/Email-singhajay9009735865%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhajay9009735865@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91--7974475923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917974475923)
 
-💬 **Open to**: Senior Backend Engineer roles · Microservices architecture · Financial/Fintech domain · Remote or Hybrid in Delhi NCR
+💬 **Currently**: Custom Software Engineering Sr. Analyst @ Accenture · Building enterprise-grade backend systems
 
 </div>
 
