@@ -102,13 +102,13 @@ public class AjaySingh implements BackendEngineer {
 
 ## 💼 Professional Experience
 
-### 🟣 Accenture — Custom Software Engineering Sr. Analyst *(Present)*
+### 🟣 Accenture — Custom Software Engineering Sr. Analyst *(Apr 2026 - Present)*
 
 > Delivering custom software engineering solutions for global enterprise clients, applying deep expertise in Java backend systems, microservices, and cloud-native architectures.
 
 ---
 
-### 🏢 Infosys Limited — Senior Systems Engineer *(Jun 2022 – 2025)*
+### 🏢 Infosys Limited — Senior Systems Engineer *(Jun 2022 – Mar 2026)*
 
 > Built enterprise-grade backend systems for **Fortune 500 insurance and financial services clients.**
 
