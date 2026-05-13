@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2563EB&height=200&section=header&text=Hey,%20I'm%20Ajay%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Cloud%20Architect%20•%20Java%20Craftsman&descAlignY=60&descColor=93C5FD" width="100%" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A5C,100:2563EB&height=200&section=header&text=Ajay%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Cloud%20Architect&descColor=93C5FD&descAlignY=60" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Microservices+with+Spring+Boot+%E2%98%95;Containerizing+everything+with+Docker+%F0%9F%90%B3;Deploying+to+the+cloud+with+AWS+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Building+scalable+backend+systems+%F0%9F%94%A7;REST+APIs+%7C+Microservices+%7C+Spring+Boot;3.6%2B+years+in+Finance+%26+Insurance+Tech;Open+to+exciting+new+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-singh-9009)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhajay9009735865@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay9009)
+[![Profile Views](https://komarev.com/ghpvc/?username=ajay9009&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ajay9009)
 
 </div>
 
@@ -12,63 +18,120 @@
 
 ```java
 @Component
-public class Ajay implements BackendEngineer {
+public class AjaySingh implements BackendEngineer {
 
-    private final String name       = "Ajay";
-    private final String role       = "Backend Developer";
+    private final String name       = "Ajay Singh";
+    private final String role       = "Senior Systems Engineer @ Infosys";
     private final String location   = "Delhi, India 🇮🇳";
-    private final String status     = "Employed · Open to opportunities";
+    private final String domain     = "Financial Services & Insurance Tech";
+    private final String status     = "Employed · Open to exciting opportunities";
+    private final int    experience = 4; // years
 
-    private final String[] stack    = {
-        "Java", "Spring Boot", "Spring Cloud",
-        "Docker", "Kubernetes", "Helm",
-        "AWS", "GCP", "Terraform"
+    private final String[] coreStack = {
+        "Java", "Spring Boot", "Spring MVC",
+        "Microservices", "REST APIs", "PostgreSQL",
+        "JMS (IBM MQ)", "Kafka", "Docker", "Kubernetes"
     };
 
-    private final String[] currently = {
-        "Building resilient microservices at scale",
-        "Exploring distributed systems & event-driven architecture",
-        "Deepening expertise in cloud-native patterns"
+    private final String[] achievements = {
+        "Improved API response time by 30% via query optimization",
+        "Wrote 200+ unit & integration tests — 90%+ code coverage",
+        "Built fault-tolerant async services for enterprise finance platforms",
+        "Delivered microservices for Securian Financial, Allstate & Allianz"
     };
 
     @Override
     public String getMotivation() {
-        return "Clean code, fast APIs, zero downtime deploys. 🎯";
+        return "Clean APIs, zero-downtime deploys, code that scales. 🎯";
     }
 }
 ```
 
 ---
 
+## 📈 Impact by the Numbers
+
+<div align="center">
+
+| Metric | Result |
+|--------|--------|
+| 🚀 API Response Time Improvement | **30% faster** via query optimization & pagination |
+| 🧪 Test Cases Written | **200+** unit & integration tests |
+| ✅ Code Coverage Achieved | **90%+** on production codebases |
+| 🏢 Enterprise Clients Delivered | **3** (Securian Financial, Allstate, Allianz) |
+| 📅 Years of Experience | **3.6+** in financial & insurance tech |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### ☕ Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Messaging & APIs
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### 📨 Messaging & APIs
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ_(JMS)-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔒 Security & Quality
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-008D62?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Infosys Limited — Senior Systems Engineer *(Jun 2022 – Present)*
+
+> Building enterprise-grade backend systems for **Fortune 500 insurance and financial services clients.**
+
+#### 🔷 Securian Financial — Insurance & Financial Services Platform
+- Developed **Spring Boot microservices** for core insurance modules: Account, Billing, Policy, Premium & Contract Administration
+- Designed secure **RESTful APIs** for UI and downstream system integration
+- Implemented **asynchronous JMS workflows** (IBM MQ) improving scalability and fault tolerance
+- Mentored junior developers and conducted code reviews enforcing security best practices
+- **Stack**: Java · Spring Boot · Microservices · PostgreSQL · JMS (IBM MQ) · JUnit · Mockito · Jenkins · AWS
+
+#### 🔷 Allstate Accounts — Insurance Account Management
+- Enhanced and optimized Spring Boot APIs supporting insurance account management systems
+- Improved API **performance and stability** through refactoring and strategic optimization
+- Documented and validated APIs using **Swagger**, improving cross-team collaboration
+- **Stack**: Java · Spring Boot · MongoDB · REST APIs · Swagger
+
+#### 🔷 Allianz Insurance — Enterprise Application Support
+- Performed code analysis and impact assessment for change requests and production issues
+- Supported and enhanced Spring Boot APIs to ensure application reliability
+- **Stack**: Java · Spring Boot · REST APIs · Swagger
+
+---
+
+## 🚀 What I'm Currently Building
+
+- 🔭 **[spring-boot-insurance-api](https://github.com/ajay9009)** — Demo of microservices-based policy & billing REST API with PostgreSQL
+- 🌱 Deepening expertise in **event-driven architecture** with Kafka + Spring
+- 🧪 Exploring **CQRS & Event Sourcing** patterns for distributed systems
+- 📖 Reading: *Designing Data-Intensive Applications* — Martin Kleppmann
 
 ---
 
@@ -76,12 +139,8 @@ public class Ajay implements BackendEngineer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajay9009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay9009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" height="165" />
-
-</div>
-
-<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajay9009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=C9D1D9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay9009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ajay9009&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6B7280)](https://git.io/streak-stats)
 
@@ -99,12 +158,16 @@ public class Ajay implements BackendEngineer {
 
 ---
 
-## 📌 What I'm Working On
+## 🎓 Education & Certifications
 
-- 🔭 Building a **distributed job scheduler** with Spring Batch + Kubernetes CronJobs
-- 🌱 Learning **service mesh** patterns with Istio
-- 🧪 Experimenting with **event sourcing** and CQRS in Spring + Kafka
-- 📖 Reading: *Designing Data-Intensive Applications* — Martin Kleppmann
+| Credential | Issuer | Year |
+|------------|--------|------|
+| 🏅 Infosys Certified Java SE 8 Developer | Infosys | — |
+| 🤖 Certified Applied Generative AI Professional | — | — |
+| ☕ Advanced Java Certification (JDBC, Servlets, J2EE, JSP) | — | — |
+| 🍃 Spring Boot & Microservices Development | — | — |
+| 🎓 Master of Computer Applications (MCA) | ITM University, Gwalior | 2021 |
+| 🎓 Bachelor of Computer Applications (BCA) | ITM University, Gwalior | 2019 |
 
 ---
 
@@ -112,10 +175,11 @@ public class Ajay implements BackendEngineer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-singh-9009)
+[![Email](https://img.shields.io/badge/Email-singhajay9009735865%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhajay9009735865@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--7974475923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917974475923)
+
+💬 **Open to**: Senior Backend Engineer roles · Microservices architecture · Financial/Fintech domain · Remote or Hybrid in Delhi NCR
 
 </div>
 
@@ -123,8 +187,6 @@ public class Ajay implements BackendEngineer {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajay9009&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1A3A5C,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1A3A5C,100:0D1117&height=100&section=footer" />
 
 </div>
